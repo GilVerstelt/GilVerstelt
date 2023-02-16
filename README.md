@@ -1,4 +1,4 @@
-### Hy there click me to get th know me
+### Hy there, Welcome on my profile
 
 - 🔭 I’m currently working student @ Artevelde University of Applied Sciences.
 - 🌱 I’m currently learning programming.
